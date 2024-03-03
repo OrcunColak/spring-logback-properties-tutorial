@@ -1,0 +1,9 @@
+2024-03-03 14:20:37.143 [INFO]  logback-tutorial [main] c.c.s.SpringLogbackPropertiesTutorialApplication   - Starting SpringLogbackPropertiesTutorialApplication using Java 21.0.1 with PID 14260 (D:\springtutorial\spring-logging\spring-logback-properties-tutorial\target\classes started by user in D:\springtutorial\spring-logging\spring-logback-properties-tutorial)
+2024-03-03 14:20:37.145 [INFO]  logback-tutorial [main] c.c.s.SpringLogbackPropertiesTutorialApplication   - No active profile set, falling back to 1 default profile: "default"
+2024-03-03 14:20:38.011 [INFO]  logback-tutorial [main] o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8080 (http)
+2024-03-03 14:20:38.023 [INFO]  logback-tutorial [main] o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-03-03 14:20:38.025 [INFO]  logback-tutorial [main] org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-03 14:20:38.080 [INFO]  logback-tutorial [main] o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-03-03 14:20:38.080 [INFO]  logback-tutorial [main] o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 884 ms
+2024-03-03 14:20:38.424 [INFO]  logback-tutorial [main] o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8080 (http) with context path ''
+2024-03-03 14:20:38.432 [INFO]  logback-tutorial [main] c.c.s.SpringLogbackPropertiesTutorialApplication   - Started SpringLogbackPropertiesTutorialApplication in 1.876 seconds (process running for 2.32)
