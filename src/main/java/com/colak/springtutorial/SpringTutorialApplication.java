@@ -1,13 +1,13 @@
-package com.colak.springlogbackpropertiestutorial;
+package com.colak.springtutorial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringLogbackPropertiesTutorialApplication {
+public class SpringTutorialApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringLogbackPropertiesTutorialApplication.class, args);
+		SpringApplication.run(SpringTutorialApplication.class, args);
 	}
 
 }
